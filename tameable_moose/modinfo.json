@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "tame_moose",
+    "name": "Tameable deers and mooses",
+    "authors": [ "Anomma" ],
+    "description":"Geyikcibaba wasnt alone.",
+    "category": "creatures",
+    "dependencies": [ "dda" ]
+  }
+]
